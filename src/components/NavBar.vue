@@ -28,7 +28,7 @@ export default {
         margin-left: 0;
     }
 
-    #log {
+    #logo {
         width: 40px;
         height: 40px;
     }
